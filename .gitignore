@@ -1,0 +1,5 @@
+resulta_backend_coding_callenge.pdf
+venv/
+__pycache__/
+*.pyc
+.env
