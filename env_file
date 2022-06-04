@@ -1,0 +1,2 @@
+# Add an api_key here and copy the file to a .env file
+API_KEY=<your_ip_key>
