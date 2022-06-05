@@ -41,6 +41,8 @@ async def fetch_data(league: str, start_date: str, end_date: str):
             get_teams_ranking(session, league, start_date, end_date)
         ]
         # Although the tasks are run asyncronosly, as_completed pereserves the order of the tasks.
+        # Not a good usage of as_completed as we are not really processing the results as
+        # they come in.
         for task in asyncio.as_completed(tasks):
             resp = await task
             responses.append(resp)
