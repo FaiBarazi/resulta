@@ -1,5 +1,6 @@
 import os
 import asyncio
+import json
 from aiohttp import ClientSession
 from dotenv import load_dotenv
 
@@ -90,4 +91,5 @@ def run_main(league, start_date, end_date):
     for event_date in scorebaord.keys():
         result = transform_data(scorebaord[event_date], teams_ranking)
         results += result
+    results = json.dumps(results)
     return results
