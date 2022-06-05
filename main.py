@@ -51,7 +51,6 @@ async def fetch_data(league: str, start_date: str, end_date: str):
 
 def transform_data(scoreboard_items, teams_ranking):
     result = []
-    print(scoreboard_items)
     if not scoreboard_items:
         return result
 
