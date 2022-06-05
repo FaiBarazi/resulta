@@ -1,0 +1,284 @@
+{
+    "hash": "1891399c832491fd6162dc60943343b0",
+    "results":
+    {
+        "2021-01-10":
+        {
+            "columns":
+            {
+                "away_abbreviation": "away abbreviation",
+                "away_city": "away city",
+                "away_display_name": "away display name",
+                "away_image_id": "away image id",
+                "away_name": "away name",
+                "away_nick_name": "away nick name",
+                "away_primary_color": "Away Primary Color",
+                "away_record": "away record",
+                "away_rotation": "Away Rotation Number",
+                "away_score": "away score",
+                "away_secondary_color": "Away Secondary Color",
+                "away_short_name": "Away Short Name",
+                "away_team_id": "away team id",
+                "away_tertiary_color": "Away Tertiary Color",
+                "boxscore_available": "Boxscore Available",
+                "event_date": "event date",
+                "event_id": "event id",
+                "home_abbreviation": "home abbreviaiton",
+                "home_city": "home city",
+                "home_display_name": "home display name",
+                "home_image_id": "home image id",
+                "home_name": "home name",
+                "home_nick_name": "home nick name",
+                "home_primary_color": "Home Primary Color",
+                "home_record": "home record",
+                "home_rotation": "Home Rotation Number",
+                "home_score": "home score",
+                "home_secondary_color": "Home Secondary Color",
+                "home_short_name": "Home Short Name",
+                "home_team_id": "home team id",
+                "home_tertiary_color": "Home Tertiary Color",
+                "recap_available": "recap available",
+                "roof": "Roof",
+                "scoring": "scoring",
+                "stadium": "Stadium",
+                "stadium_rotation": "Stadium Rotation",
+                "status": "Status",
+                "surface": "surface",
+                "weather_code": "Weather Code"
+            },
+            "data":
+            {
+                "1370686":
+                {
+                    "away_abbreviation": "BAL",
+                    "away_city": "Baltimore",
+                    "away_display_name": "Baltimore",
+                    "away_image_id": "",
+                    "away_name": "Baltimore Ravens",
+                    "away_nick_name": "Ravens",
+                    "away_primary_color": "#000000",
+                    "away_record": "11-5",
+                    "away_rotation": "147",
+                    "away_score": "20",
+                    "away_secondary_color": "#2C2E81",
+                    "away_short_name": "BAL",
+                    "away_team_id": "48",
+                    "away_tertiary_color": "#DEAC33",
+                    "boxscore_available": "Yes",
+                    "event_date": "2021-01-10 13:05",
+                    "event_id": "1370686",
+                    "event_status": "Complete",
+                    "home_abbreviation": "TEN",
+                    "home_city": "Tennessee",
+                    "home_display_name": "Tennessee",
+                    "home_image_id": "",
+                    "home_name": "Tennessee Titans",
+                    "home_nick_name": "Titans",
+                    "home_primary_color": "#00295B",
+                    "home_record": "11-5",
+                    "home_rotation": "148",
+                    "home_score": "13",
+                    "home_secondary_color": "#347AAA",
+                    "home_short_name": "TEN",
+                    "home_team_id": "62",
+                    "home_tertiary_color": "#FFFFFF",
+                    "recap_available": "Yes",
+                    "roof": "Open",
+                    "scoring":
+                    {
+                        "columns":
+                        {
+                            "overtimescore": "OvertimeScore",
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "totalscore": "TotalScore"
+                        },
+                        "data":
+                        {
+                            "A":
+                            {
+                                "overtimescore": "0",
+                                "quarter1score": "0",
+                                "quarter2score": "10",
+                                "quarter3score": "7",
+                                "quarter4score": "3",
+                                "totalscore": "20"
+                            },
+                            "H":
+                            {
+                                "overtimescore": "0",
+                                "quarter1score": "10",
+                                "quarter2score": "0",
+                                "quarter3score": "0",
+                                "quarter4score": "3",
+                                "totalscore": "13"
+                            }
+                        }
+                    },
+                    "stadium": "Nissan Stadium",
+                    "stadium_rotation": "155",
+                    "status": "Final",
+                    "surface": "Grass",
+                    "tv_station": "ESPN",
+                    "tv_station_name": "ESPN"
+                },
+                "1370696":
+                {
+                    "away_abbreviation": "CLE",
+                    "away_city": "Cleveland",
+                    "away_display_name": "Cleveland",
+                    "away_image_id": "",
+                    "away_name": "Cleveland Browns",
+                    "away_nick_name": "Browns",
+                    "away_primary_color": "#3E220D",
+                    "away_record": "11-5",
+                    "away_rotation": "151",
+                    "away_score": "48",
+                    "away_secondary_color": "#F36A24",
+                    "away_short_name": "CLE",
+                    "away_team_id": "60",
+                    "away_tertiary_color": "#FFFFFF",
+                    "boxscore_available": "Yes",
+                    "event_date": "2021-01-10 20:15",
+                    "event_id": "1370696",
+                    "event_status": "Complete",
+                    "home_abbreviation": "PIT",
+                    "home_city": "Pittsburgh",
+                    "home_display_name": "Pittsburgh",
+                    "home_image_id": "",
+                    "home_name": "Pittsburgh Steelers",
+                    "home_nick_name": "Steelers",
+                    "home_primary_color": "#000000",
+                    "home_record": "12-4",
+                    "home_rotation": "152",
+                    "home_score": "37",
+                    "home_secondary_color": "#E3AC00",
+                    "home_short_name": "PIT",
+                    "home_team_id": "46",
+                    "home_tertiary_color": "#FFFFFF",
+                    "recap_available": "Yes",
+                    "roof": "Open",
+                    "scoring":
+                    {
+                        "columns":
+                        {
+                            "overtimescore": "OvertimeScore",
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "totalscore": "TotalScore"
+                        },
+                        "data":
+                        {
+                            "A":
+                            {
+                                "overtimescore": "0",
+                                "quarter1score": "28",
+                                "quarter2score": "7",
+                                "quarter3score": "0",
+                                "quarter4score": "13",
+                                "totalscore": "48"
+                            },
+                            "H":
+                            {
+                                "overtimescore": "0",
+                                "quarter1score": "0",
+                                "quarter2score": "10",
+                                "quarter3score": "13",
+                                "quarter4score": "14",
+                                "totalscore": "37"
+                            }
+                        }
+                    },
+                    "stadium": "Heinz Field",
+                    "stadium_rotation": "155",
+                    "status": "Final",
+                    "surface": "Grass",
+                    "tv_station": "NBC",
+                    "tv_station_name": "NBC"
+                },
+                "1370701":
+                {
+                    "away_abbreviation": "CHI",
+                    "away_city": "Chicago",
+                    "away_display_name": "Chicago",
+                    "away_image_id": "",
+                    "away_name": "Chicago Bears",
+                    "away_nick_name": "Bears",
+                    "away_primary_color": "#091F3D",
+                    "away_record": "8-8",
+                    "away_rotation": "149",
+                    "away_score": "9",
+                    "away_secondary_color": "#EC6E24",
+                    "away_short_name": "CHI",
+                    "away_team_id": "43",
+                    "away_tertiary_color": "#FFFFFF",
+                    "boxscore_available": "Yes",
+                    "event_date": "2021-01-10 16:40",
+                    "event_id": "1370701",
+                    "event_status": "Complete",
+                    "home_abbreviation": "NO",
+                    "home_city": "New Orleans",
+                    "home_display_name": "New Orleans",
+                    "home_image_id": "",
+                    "home_name": "New Orleans Saints",
+                    "home_nick_name": "Saints",
+                    "home_primary_color": "#000000",
+                    "home_record": "12-4",
+                    "home_rotation": "150",
+                    "home_score": "21",
+                    "home_secondary_color": "#AB8B54",
+                    "home_short_name": "NO",
+                    "home_team_id": "70",
+                    "home_tertiary_color": "#FFFFFF",
+                    "recap_available": "Yes",
+                    "roof": "Indoor",
+                    "scoring":
+                    {
+                        "columns":
+                        {
+                            "overtimescore": "OvertimeScore",
+                            "quarter1score": "Quarter1Score",
+                            "quarter2score": "Quarter2Score",
+                            "quarter3score": "Quarter3Score",
+                            "quarter4score": "Quarter4Score",
+                            "totalscore": "TotalScore"
+                        },
+                        "data":
+                        {
+                            "A":
+                            {
+                                "overtimescore": "0",
+                                "quarter1score": "0",
+                                "quarter2score": "3",
+                                "quarter3score": "0",
+                                "quarter4score": "6",
+                                "totalscore": "9"
+                            },
+                            "H":
+                            {
+                                "overtimescore": "0",
+                                "quarter1score": "7",
+                                "quarter2score": "0",
+                                "quarter3score": "7",
+                                "quarter4score": "7",
+                                "totalscore": "21"
+                            }
+                        }
+                    },
+                    "stadium": "Caesars Superdome",
+                    "stadium_rotation": "90",
+                    "status": "Final",
+                    "surface": "Turf",
+                    "tv_station": "CBS",
+                    "tv_station_name": "CBS"
+                }
+            }
+        },
+        "2021-01-11":
+        []
+    }
+}
